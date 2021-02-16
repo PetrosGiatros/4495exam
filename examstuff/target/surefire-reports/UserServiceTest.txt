@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: UserServiceTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.093 s <<< FAILURE! - in UserServiceTest
+testIfUserExistAndPasswordWeak(UserServiceTest)  Time elapsed: 0.01 s  <<< FAILURE!
+java.lang.AssertionError
+	at UserServiceTest.testIfUserExistAndPasswordWeak(UserServiceTest.java:19)
+
